@@ -3,7 +3,7 @@ from sklearn.preprocessing import StandardScaler
 import numpy as np
 
 # Load the CSV file
-file_path_v2 = "/Users/rishi/Projects Python/Fast Food Chain Rep/FastFoodNutritionMenuV2.csv"
+file_path_v2 = "/Users/rishi/Projects Python/FastFoodNutritionMenuV2.csv"
 nutrition_data_v2 = pd.read_csv(file_path_v2)
 
 # Clean column names for easier handling
