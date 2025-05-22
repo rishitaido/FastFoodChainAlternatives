@@ -1,4 +1,4 @@
-import pandas as pd
+'''import pandas as pd
 from sklearn.preprocessing import StandardScaler
 import numpy as np
 import tkinter as tk
@@ -240,5 +240,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = NutritionalGUI(root)
     root.mainloop()
-
+'''
 
